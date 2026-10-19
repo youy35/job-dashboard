@@ -7,6 +7,11 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor
+try:
+    from .source_channels import load_sources, collect_source
+except ImportError:
+    from source_channels import load_sources, collect_source
 
 OUTPUT = Path(__file__).resolve().parents[1] / 'jobs-feed.json'
 SEARCHES = [
@@ -36,7 +41,7 @@ SEARCHES = [
     ]
 ]
 JOB_WORDS = re.compile(
-    r'招聘|招募|聘用|岗位|职位|博士后|\b(vacanc(?:y|ies)|hiring|recruitment|jobs?|'
+    r'招聘|招募|聘用|岗位|职位|博士后|\b(vacanc(?:y|ies)|hiring|recruitment|job openings?|job listings?|job postings?|jobs in|apply|'
     r'internships?|postdoc\w*|applications? invited)\b', re.I)
 OPPORTUNITY_WORDS = re.compile(
     r'招募|申请|报名|征集|招收|\b(apply|applications?|opportunit\w*|call|open)\b', re.I)
@@ -125,12 +130,16 @@ def merge_leads(existing, found):
         if url not in merged:
             # Preserve any manually verified facts and notes, including unknown extensions.
             merged[url] = {**job, **old.get(url, {})}
+            # Refresh source provenance without changing user-maintained facts.
+            for key in ('source_id', 'source_kind', 'discovery_method'):
+                if key in job: merged[url][key] = job[key]
     for url, job in old.items():
         merged.setdefault(url, job)
     return list(merged.values())[:500]
 
 
-def main(output=OUTPUT, searches=None):
+def main(output=OUTPUT, searches=None, include_channels=None):
+    include_channels = searches is None if include_channels is None else include_channels
     searches = SEARCHES if searches is None else searches
     existing = []
     if output.exists():
@@ -148,12 +157,28 @@ def main(output=OUTPUT, searches=None):
         except Exception as error:
             reports.append({'query': search['query'], 'status': 'failed', 'error': str(error)[:300]})
             print(f"FAILED {search['query']}: {error}")
+    sources = load_sources() if include_channels else []
+    def run_source(source):
+        try:
+            return collect_source(source, UNKNOWN_FIELDS)
+        except Exception as error:
+            return [], {'source_id': source['id'], 'source': source['name'], 'url': source['url'],
+                        'method': source['method'], 'status': 'failed', 'error': str(error)[:300]}
+    if sources:
+        with ThreadPoolExecutor(max_workers=4) as pool:
+            channel_results = list(pool.map(run_source, sources))
+        # Put source-specific results before broad news discoveries.
+        channel_jobs = []
+        for jobs, report in channel_results:
+            channel_jobs.extend(jobs); reports.append(report)
+            print(f"{report['status'].upper()} {report['source']}: {len(jobs)} leads")
+        found = channel_jobs + found
     if not any(r['status'] == 'ok' for r in reports):
-        raise RuntimeError('全部 RSS 请求失败，未更新机会数据')
+        raise RuntimeError('全部来源请求失败，未更新机会数据')
     payload = {
         'generated_at': datetime.now(timezone.utc).isoformat(),
         'jobs': merge_leads(existing, found), 'cost_policy': COST_POLICY,
-        'search_report': reports,
+        'search_report': reports, 'sources': sources,
     }
     # Replace only after serialization succeeds.
     temp = output.with_suffix('.json.tmp')
@@ -166,4 +191,8 @@ def main(output=OUTPUT, searches=None):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--output', type=Path, default=OUTPUT)
-    main(parser.parse_args().output)
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument('--channels-only', action='store_true', help='仅测试新增官网与站点索引渠道')
+    mode.add_argument('--news-only', action='store_true', help='仅使用兼容的新闻检索')
+    args = parser.parse_args()
+    main(args.output, searches=[] if args.channels_only else None, include_channels=not args.news_only)
