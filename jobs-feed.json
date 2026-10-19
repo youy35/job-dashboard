@@ -1,4 +1,595 @@
 {
-  "generated_at": "2026-10-19T08:21:31.022284+00:00",
-  "jobs": []
+  "generated_at": "2026-10-19T08:30:00.170167+00:00",
+  "jobs": [
+    {
+      "org": "机构待核实",
+      "role": "黑龙江省文化和旅游厅直属事业单位2026年度“黑龙江人才周”人才招聘公告 - 黑龙江省文化和旅游厅",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "科研",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TYmRDQU11TFMzR0FFMkl4djhaMzZLaU9rbjd2R3pCOF9ROUFfZ2JKUE5HSFJTRkFXVUlGMjc2Z1RERlVvTWl4cHZ6WTVPYl9uUkhFakhoVmkwU09rZWpmRlAwdndxU3dPMTJYYg?oc=5",
+      "source": "Google News RSS / 黑龙江省文化和旅游厅",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "大庆有岗！黑龙江省近期部分招聘信息汇总 - 凤凰网黑龙江",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "科研",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBybDd5bTNNZkZtTG5EaE4yQmZXQXlkNjR5bXVIX19pTjlYWUdhamFCb3dESFIzT0lrbFJkczA4bUw4YTlCQlpnNzI0QQ?oc=5",
+      "source": "Google News RSS / 凤凰网黑龙江",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "深圳市事业单位2026年集中公开招聘高校毕业生深圳市文化广电旅游体育局招聘岗位拟聘人员公示 - 深圳政府在线",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博物馆",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SNlNpVUZrXzBJOXFLT0diSUs1WTI0R3NqeUZORTMzTkFHc2d6ZkhzMU85S0I3TklvRXZCQVZjWHVmTFQ2Q3dmSXZHWDRobW1PSTNVZHNkMHRPdWQyaHVoenRuZi1jT200QjhZeXd4LVRVTDFFejZ3?oc=5",
+      "source": "Google News RSS / 深圳政府在线",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "【招聘启事】中国社会科学院考古研究所考古大数据资料中心编制外聘用人员招聘启事 - 川观新闻",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博物馆",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yVUdlR2xYdVNsZUZ2YU5NYWUxdUxVbkp2Y0pXSURaWXBGaWFhZTRhMWIwdnRVTnBYQTh2cXE1SEdGWmRuTUpaZFNZcFZNQQ?oc=5",
+      "source": "Google News RSS / 川观新闻",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "中央宣传部直属单位2026年度公开招聘工作人员笔试公告 - 中国文明网",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博物馆",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPZUlpX0ZycVlld0RSck9ReFhHX0tQS0ZqT1hwRFFMVjM4TE1rSUVTdjU4TzNZYkxRYi00VlBWSmZ3REg1WnNfM1BpaHBBZ29hbW5RSklfZGZlRUE5U2dfM29KdEZBMjJDMUFubEsxaXR1MUMyOFg1VDBR?oc=5",
+      "source": "Google News RSS / 中国文明网",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "路县故城遗址公园2026年招聘工作人员公告 - 京报网",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博物馆",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51UllmSW1jcmhEV284YzhoUldudENZbWFqRTAzbmxnWWJVckVQb3JiajZPODhydmtJTnJSUHFDOEpRUC0yUzBobWpvUFlHYXM1WTdaUFJFQUdRZUw4bkZFYU1nUUlHcHU4WVBRY3Y3VkJtdw?oc=5",
+      "source": "Google News RSS / 京报网",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "全国妇联所属在京事业单位2026年度公开招聘公告 - 中国妇女",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博物馆",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52SHN6eWl6SEh1VVYwNnhtbkdHdW9qTkU3SGxVaW5GRnpRbDlhMnJYdGZxTXpsRFRnTDZzT1hRRm9RM0tFU1poODFtM0Zva050Q3RUcGhndENtakJaVDlYeTVB?oc=5",
+      "source": "Google News RSS / 中国妇女",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "黑龙江省文化和旅游厅所属事业单位2025年度公开招聘工作人员公告 - 黑龙江省文化和旅游厅",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博物馆",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBieUhXS3hza2tYNFVEUEU4ZThtR0ROYk1wQy0zdlRaaW5RVmgzZnF2RjNjX2d3emRSb0RaM3hNdGxXR1haQ0ZzMUg2eVFOVzdrV3Q3ejdJOXg2WHhPTThvUThrdzZ0MUhSREFMWg?oc=5",
+      "source": "Google News RSS / 黑龙江省文化和旅游厅",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "深圳博物馆2025年5月公开选聘专业技术岗位工作人员公告 - 深圳政府在线",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博物馆",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VNWtiQ1FObTd1NTFmajFtQndwNy11SFVKa2NhR1VCYU1LZGJ2UzZvZ0IzZ21OZnNJWlRNVDJaMXItX0Z4dlZVb1l2Tkd5T0xNTFg5WUhDMTByNUlLcVdFaFdBbE44bkl4UGpRSjlUSm1lTUJBRi1Z?oc=5",
+      "source": "Google News RSS / 深圳政府在线",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "浙江一批事业单位正在招聘 - 新华网浙江",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博物馆",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GbTVuVXJITC15QmhUR3FHbExKWGcyUGdqenE5Z0lZUDc1OHZrUk9JRTNjZDhrbElsLUN6YzRab0tvMzFOQ0YwSU0tdWxweDR1QTFTMVh4ZFFJWkJkTVY4SzAxZnhNQ25wUnEzN3ZUVGtCVDl5QkN3QUE1bw?oc=5",
+      "source": "Google News RSS / 新华网浙江",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "三星堆公开考核招聘11名工作人员：学历要求硕士研究生及以上 - 搜狐网",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博物馆",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuUEV5aC1hYS1YMlZobmZoTWR0SHdueGlGRUZ1UDBzWTdUOVo1c0J0cWdmbWpyR3d4aVBjcUhoU1FKV1pqVHpwVVZBSmxCS3k2?oc=5",
+      "source": "Google News RSS / 搜狐网",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "大学本科及以上学历3000-3500元/月，六朝博物馆招聘公告遭吐槽“呵呵”_我苏网 - www.ourjiangsu.com",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博物馆",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iRHB5dDNnMTJISHFPVndld1g4U01fdE8wQnB5Mlc4SjRxazk5ekZUbVZJVm1HU0tPbk4tVklZWU52elFoRmZQN3EyZFp2VE1OOGNsVjR1TDdiZnJ6bkMxb2xHdmNEYjA?oc=5",
+      "source": "Google News RSS / www.ourjiangsu.com",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "故宫招人，过半岗位无须北京户口，应聘者：工资并不高 - 时代在线",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博物馆",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yb1NRanBxZTRUT0V0YU1JY0JHMWtxNnZ3TW9QTzlJbVkzQmd2UURRQ2tDYlVxV3NLcWo2OVNwQXpBbE1YSUtOTFdITFdlbWY3?oc=5",
+      "source": "Google News RSS / 时代在线",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "北京大运河博物馆招聘啦！快报名 - 京报网",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博物馆",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNNmhVaHJFMnJEbXdDaEJFdFM3bXNWZ3llUWJFZGNtVlZHTklsSGg1Vi1rYTh2Y2x3cnE5cU1OZnVtVDZwbVdBaEV3bFNGNFFaZHdidlVxSkRzZENzVm5qcW04Nm1idHRVWXZiaDB2UHJxUQ?oc=5",
+      "source": "Google News RSS / 京报网",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "速来！江汉关博物馆正在招聘 - 搜狐网",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博物馆",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mZ3lVMHdldExXUVlnaGhxRC1CSzU5dGVkaWlIVWlfRDYwNkhoYWdaUUtYWGlKS1hSUFZXSFpzcWhNWUI3T1RFU0l5cmtHbEZNYWNzdw?oc=5",
+      "source": "Google News RSS / 搜狐网",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "共10人！日照市博物馆、美术馆面向社会公开招聘服务工作人员 - 凤凰网山东",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博物馆",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6eDJmVmFiN3g2LWI1cDVPNHJmNjkzYjRtMm5OQWpFdHg5RUxCWHhsQ1Q2ZXJrZWdwLVBQX0NaalRTZWNSdjZ0VTBR?oc=5",
+      "source": "Google News RSS / 凤凰网山东",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "上海市历史博物馆（上海革命历史博物馆）公开招聘公告 - view.inews.qq.com",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博物馆",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14TGJ1Mnp0TkNLWm9wX2xPUTlVNGVhTzFXbExKaVlEMjJ3X2I4VW9uY0VtbUgxS2JUejdhQllodjZOV0VoQS1PeFBwby1Xd0t6QTUxWlJ5RDYwTm1nMy1YVHBvV095ZU5MdHRlM1dtTXFWTl9oNExz?oc=5",
+      "source": "Google News RSS / view.inews.qq.com",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "从事艺术和文化工作，本周招聘信息和空缺职位 - Finestre sull'Arte",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博物馆",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN0N4Qk16TU9qVGlBMFl1WnZMS2g2Z05MNUIxTzF1bklqcEd1YWZVMWxLbjRGRVNNcGZPbVZBRWRrZVNnVGRfczJad3pFSFBSZWNrNGdENlY3V3R4LWRqd1Q1VXVEYm1LUkh6S1l0ZE5rMFV2WTVhYjZ3YjBDMXFFcWNYclJCbm5FV2t1UFd6OGRrSUxqZDJKR1hRWXBERWZLU0Z3RGp4M0tXYkMxODB1VUk5WDJxZTJ4ZzJQWTRVR1dnZGVT?oc=5",
+      "source": "Google News RSS / Finestre sull'Arte",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "复旦大学全球南方田野调查实验室招聘行政助理岗位3名_上观新闻 - 上观新闻",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "高校行政",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96d0Rram9GMFpOTHpFUWRkY3FnSTRWZzZrbUdVc2EtQWZYdHVFOWRueENfaFlYRVhvallfUUJrRDVNYXEtWW1rSVd2SnI2a3Zrd1VTS0QyekY?oc=5",
+      "source": "Google News RSS / 上观新闻",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "招募｜复旦大学全球南方田野调查实验室 - 复旦发展研究院",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "高校行政",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41cUZkaGtZcTQwMmYxYUVJUmkxTHdjWEVDMkJDSWo5VUJITTViR3VNMHFJbEVaTlB0X3V1NHgweUYwUXdLSlFjbG55Q1MwQk5rdWF4T0NRN01WYzg1ZzFYV0FuNVZ6WEZGUDRENGtn?oc=5",
+      "source": "Google News RSS / 复旦发展研究院",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "北京外国语大学公开招聘国际商学院院长 - 学术桥",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "高校行政",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHUU96WERSQmhROTlWUHdoWnBubGpfSlo2T0VBSDVlVFFNVV9MR3d6ajdCOU9Wa29YWGtXRFdDTlNMS3ByYU51ZncyT1BHNGZqdGZZeHhpNWRnU3pXdGxfWElva3piZmFfVzZhbk1hWVpSU00?oc=5",
+      "source": "Google News RSS / 学术桥",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "清华大学中国工程科技发展战略研究院招聘研究助理 - 清华大学公共管理学院",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "高校行政",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rTTh4YlEtb1hqdjM0ckJhclVLemVaOUJ2aUpxcVJVbEtDVUpjY3Ixbi05VkpPekQyeURaMHZJUXd4LTdsMzJqVHAzWUUzbmFsVTFhNmhIQ24xWVFVUHZiSg?oc=5",
+      "source": "Google News RSS / 清华大学公共管理学院",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "我校组团赴美国、加拿大招聘海外人才 - 天津工业大学",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "高校行政",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVNmFWaWNnZHU1dE5LVGZBdnpJamFITURpZGJ3WUhiWU9kUkE3R3ZEZWFmN2FBMlVicndGRXpQVG94YktSRGlwNUl1ejRNUU5rNW1SOHBrbEtSWS1HWjdnVkNkTGhTN1k5WWc?oc=5",
+      "source": "Google News RSS / 天津工业大学",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "上海立信会计金融学院公开招聘部分学院院长、副处长的公告 - 学术桥",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "高校行政",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mQklIVWJlUEJCMzUtUzdkT2NoMTZsU3MxaUFENVZ3dE4wblNRRFhaVG1Ra1V6WjFDWnhxdjJPOXJrWi1jUTNhMXBuVEVfRm5PLWNpdkcxY3gyS0tZaEtpdWtpLWg2M0Y3SFpjbjA5c1d4c1pFaEE?oc=5",
+      "source": "Google News RSS / 学术桥",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "华中师范大学2023年人才招聘公告 - 学术桥",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博士后",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MVk9FRHJHVHlMbmNMc245RF9qcmZUek1mOTRER2lxWHRRMklnaFNrUTFhbW5DWXM2b3dPRHRQaGgwaVl4eDU3VV9xVzZ0bkZTNVRmRFM2dWxTY3JnYlBpME1SU21FX3hXYmhlWEpGUUpCTk0?oc=5",
+      "source": "Google News RSS / 学术桥",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "北京多所大中小学开启招聘，还有多场教育双选会 - 京报网",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博士后",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OR19PdUx4UEZjVzNTQWtYLTI2WTV0MjlxdlVBc0tMVHNuTERHZlRZRHgxSnVfdF8yXzNzaGNIYklEZ09NcWdnbXpJNmZON1lQbTFSMXpTWFpZRktDamxvakZ4NTZ3QjJ3SGZybEdXTG9EQQ?oc=5",
+      "source": "Google News RSS / 京报网",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Armory Show Director Nicole Berry on Hiring Women Curators to 'Challenge the Canon,' and What's in Store for the Fair Now That It's Owned by Frieze - Artnet News",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "博物馆",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rRVZYNzFIREhhbmh3NEg4azNZOGVHYlUtQmlZTjlVbjg0N2wtRmZ0SWhvMXdqQU5KZUgwakYwWXZNZS1GNThmWUg0Q3Q1SnVidzQ4d01pd2Nia09xak42OXQ4WUZ4UTVYSDVUMTItLVZLc2dYX21qenE2b2VDVFE?oc=5",
+      "source": "Google News RSS / Artnet News",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "ÖAW: Job vacancies at the Austrian Academy of Sciences - Österreichische Akademie der Wissenschaften",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lenM3ZEpJVWdvR0FqQ1NNUTJZUmFWV09JcDFnU01YZ25ud3Q3bG5va19sX2ZuakE0dkViZjBESV93MkphY2ozTGVsejVmMnhOTmc?oc=5",
+      "source": "Google News RSS / Österreichische Akademie der Wissenschaften",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "We're Hiring! UWCHR Research Coordinator - Center for Human Rights - The Henry M. Jackson School of International Studies",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTmpHalFBOFhCWngyeUpFeFJzeGRqN2IteEZ3X1l6Skt1M3ZoLUVpbDJ5WlJiTHdKUlRRVkl6bjhIUm5zQkFmXzl1ai04YU5sZ0hGVDhDZnpOWXlfTFJUVUdueUNfUzdGVWV0TWx6eElvMjZtdzNRdWlocngxTkVLd0h5LXVBVVR4d3RIdmcyT01UWWNZ?oc=5",
+      "source": "Google News RSS / The Henry M. Jackson School of International Studies",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Leiden Indonesia Vacancy 2026 - Universiteit Leiden",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMDB2UkdDUmFfOTM5UWFodEV1dGtoSzQ0aGtocTFIWWs0eXExSzk3MGpXZWFhbjBCWWlGb1hiaEZ5cmY2TllNM1pBQWFNbVFVM0NRdUZQNFNrSThEZ1h2Z0hJeDkzTFVVSGdOanJRV2RxWlhjaXk1OUpFVUFTalpOYzRlRVR1ZWU2Y0xSZjFpLVFpNFYtRUE2ZmhaeXhNQQ?oc=5",
+      "source": "Google News RSS / Universiteit Leiden",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "What PIs want when hiring a clinical research coordinator - Cambridge University Press & Assessment",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNMmVraFlsZDJhR1JyZFNPNVRrTXZHRVBBVFEwUXVSeUVqVFVzaUNxQ2MtdlUzQ0VoM0kyWkt2bjhjeDFVYV9WSzdSRjJvMjkzNXhPT1BWQzJ4Z0xQYkFTOEZqZVd5ZUxDWVBmOFllY2wxeTh6b1JiZXJHM1FTel9yODJvdlNkX3FPSkdRRzNVNk1QQXZtdGFzMjQ3OGtXTjR5Rnd0ckFiaGotWjdjOTNTVklhTTVTZ0xjTGd5ZHJGel9iYUl5SWtaR3VYWVV3Q3VBNGtHNEFLNHMyX1dIbjl6OGJhUk9xZ1VuS0U2clNnVElldlRXOWV2QWdjVk51LXA3X3FkWmdhTFIxeUJXbF9EQmxR?oc=5",
+      "source": "Google News RSS / Cambridge University Press & Assessment",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Uppsala University is Hiring Research Assistants in Peace and Conflict Research: Apply by 5 June 2026 - Global South Opportunities",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxc0podWpMQk9DSldLQi11Mi1ZTDBJZFVyRzF4bUZRQXVWcjNscUVaZ3hId0dIdkNieW1OaVItaGZUYTRQVlRzRDBJVG9TaDB4Z213eE43R2FHbXpJN1BmUm5XNUZPXzRwcDB3ZDVR?oc=5",
+      "source": "Google News RSS / Global South Opportunities",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Important Announcement: The IBRC is Hiring! - Sites@Duke Express",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWTMzNXJCUmRjNnBuLW9xZU5NWjFVcmVtaDViSGNpTUZRLXJpNHRGV1FuNG9qZm5ZcDZwOWZ6Njk5X0tqZ0tHNEE5VGlsU1hJT1g3T2g4eGZPUi11NHpHUXhMdFA2RVVzQldlNV9ncVROVU51c0g0MXZCRkRfaGNjc1R4T2VXVXVhLXVn?oc=5",
+      "source": "Google News RSS / Sites@Duke Express",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Looking to Hire a Student Research Assistant? CISS Provides Recruitment Supports - Boston University",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNU5URHh4QXh5YmYwWkZGMkV2bW5JZEJyZW4wdXhFVWxiT0FJYlZSZFJURFM2RkdMWW90c0V3eHJhcmNlZUo1N0liV19kMEduaV9EckFKUGg5TWVLR0tFQ0l1Q0JKbzF1RHFzSWR4R0phZVJfeHRFcmhDT1hJU1hvVllJcVBoU0gxNzFVektkWEJVMlV0bUFLczhEYkx2ZzBpX0FWSXRQaUN6UTJ0UWFpclZMVEstUQ?oc=5",
+      "source": "Google News RSS / Boston University",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Oxford Measured is Hiring Research Assistants for June: Remote Opportunity plus Day Rate Ranging Between £160 and £200 - Global South Opportunities",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PcWhWQXZicjMyY1dtcEVvZUN6eGVaczB1LW5iVGhFREhOcnEyRHBUblprQnMzZU9XWTRLcTJPNk1Ua0ZwR2Y0X1QycFlwTjJxWmtFZzlUaWFzemVQaFd6MGtyazVkaUREbTNjZURNUzkxa0FtOUF3?oc=5",
+      "source": "Google News RSS / Global South Opportunities",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Centre for Science Policy at (IISc) Indian Institute of Science is Hiring: 4 Roles for You to Apply Now! - Global South Opportunities",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UcW1FaVhRZUExV0pCandZal9IRV9FMlMwTTY1bzh5Q29FRGprVm10bTc4UjBWRUtZbVRHUk5hbWJ5bnJzRTF4SEdraVRWRjJrLWx3NlNBZzlzYnA2RXF3N25NeWhudmJHZ2xld2pYSQ?oc=5",
+      "source": "Google News RSS / Global South Opportunities",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Lingnan University’s study shows 40% of job vacancies in Hong Kong in traditional service industries Rise in gig employment amid lagging adoption of advanced technologies - Asia Research News |",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVkR1YXZOa3dDU0xRM2cyRzhBMmxTVk1kNzVMTWx3QmFRLXZMVngtQnd5Q1V5enhMM2FMbmhWUkc0cFhmcHZRRmgzUUx3dEhzQkZZR1dFSlYtVkdhY0J1Z3ltQVRWdkI0Q04yUDc4eHI0R2syWHlQU2RWVXdtcEtHODZoRGpLWC1HTENXUjJQaGlNazk3NWVEUXF1empHMHg2RGtMV2RpMk5WUXRJSEdtd2h6dTkxYndBdlkyMXFWUlhWa3liNXVLSWlGeVY5TkJsTmFYMnRB?oc=5",
+      "source": "Google News RSS / Asia Research News |",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Featured academic job openings at 12 architecture schools - Archinect",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcnFleS0tb041Q0phTGgtM011bkh6dmlqMkJZUnk3WDl5ZzRDMEJVRVk2Zk9zMmVLR181eEJ1RFJqMDVLNklRVm1MQ190a1RlMVM5N1c4SjY0TGVIVWppSVlkbGQ0aDEyY253bHJiMWJIV3VsbVh0ZUQyXzFCeF9XcDAtV1N0YXZ0bGx0RnM3TUo0V2prWUJDOVZiZXpaSzl3N0R6bg?oc=5",
+      "source": "Google News RSS / Archinect",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Aakash Desai: We're Hiring: Clinical Research Coordinator II at UAB - Hematology & Oncology - Oncodaily",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUZU1DazRBVlpMcEE5SHJfc0JURDlISnBoVUxQOGpLUW5vUDZMYjhveS0yaVpfSHpfa3hDa0lCeEVfNENoWWVZ?oc=5",
+      "source": "Google News RSS / Oncodaily",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Harvard Docks Course Assistant Pay, Cuts Back on Undergraduate Hiring - The Harvard Crimson",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9McEdKQlVZeGxEOGxXeXI3YVB5MUFqcmwyeVg2TTJrQ2l0MkNnZmpvX2h0UDhHd3UyT2N0LXRTeW5IdzFxZEwzZEJ5cS1IdjY0STF1cmZEdXVHelNJNk9kTVVoRWMxY1MxUlJlYjI3cmUyUnc4TWtKbFVaNzI?oc=5",
+      "source": "Google News RSS / The Harvard Crimson",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Bodhi Global Analysis Hiring Junior Researcher (French/English): Remote International Development Research Job Paying Up to £38,000 - Global South Opportunities",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Nc0cwQllRRVY0c25WTk54UW1vYzllREF1U2ZQWTBnQkk2WVE1SE9weHhEU3N2cGRjZVBiZ3lWVTRkWnR1ZlJ2N2NRRVBvdEhfa2x1dS1wUkJOMElBSmFlcUVhVUctUXgzNmMzVQ?oc=5",
+      "source": "Google News RSS / Global South Opportunities",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Research Assistant in Pakistan: Apply for a 5-Month Security Behaviors Research Position at CISPA - Global South Opportunities",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SaUVyeUFFay1yOV9Md09FcDdRdWgtV1g5MUZXbDE3eDZ6MTZfN2EyZnpTN0d4TkF2UmZBZnkwTDM4bEZuZ2hxckdoX19PZzR4eHRvUU8xTFl3cHROdERFZXNqNXJCQWd3ZHV0UlpSR1Q?oc=5",
+      "source": "Google News RSS / Global South Opportunities",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Stanford’s Hiring Freeze Exposes the Big Lie of Research Funding - The Stanford Review",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU1pVd2hUNzNyd1pvZTRYV3VyRzVuSmF2QmFnT3VhejVaSHJGNEduYlFWNE1wdHdVLS0zZHpvVVk0X3VxTUxyREMtd2hnLTl5cktVZThBdG8zWmY3QUxqbnZCUEEybm5GdDVjTzdzbE9wbmNROVc0Q3B3enZocHJzRkhoNHN3WmFSb0JqMl9ZNktRb0Z3WEE?oc=5",
+      "source": "Google News RSS / The Stanford Review",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Now Hiring: Part-Time Research Assistant - Hannah Arendt Center for Politics and Humanities",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQjZuNU14RFNSTlhoRnZ5VTJjOXZ6cGRkQ1FGaVdSdWpzaU9lLWFoV2g2eWlPeEtMaENNdkhDejBtcWt1akRKQ2FRN2RUbVhuaHRFQ3pCZE95RVhkSm9NYVpRVTktOG4xNk9oRDNrRnA4Tm5IczZxVkJ0Q01EeVhiNUpOZ2hDSUxEcUE?oc=5",
+      "source": "Google News RSS / Hannah Arendt Center for Politics and Humanities",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Cambodia Development Resource Institute (CDRI) is Hiring a Research Assistant: Apply by 24 May 2026 - Global South Opportunities",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YNF9md2t3TERMVkkwdFQ2bkpXa203SzkxNW1jRUtUaXhXOW9VMHBIWlIyajlLb24tNEN6ZTRTOGxydnBpWEJ6Y1F0anB0N1g3ZDc2NFlVZjBPLVlNTGVYaVVTekxrd1VhZUU4?oc=5",
+      "source": "Google News RSS / Global South Opportunities",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Malmö University Announces Multiple Research and Academic Vacancies in Sweden 2026 - Global South Opportunities",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0cURTTWI0ZkRzb2dFc1RoTW9jbWdrelJDUThpaVkzU0EweWgwcXpOZEtnWGtxMlVaenprVDR6TGNqQXY2aUc3cEI5RDZGdmJHc3o2S3c2QzVHMWwzMGNiMEhWREpMbHBQMHc?oc=5",
+      "source": "Google News RSS / Global South Opportunities",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Center for Effective Global Action is Hiring: Research Assistant Role in Rwanda AI Behavioral Savings Project - Global South Opportunities",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMUURaRWowdk5CRXNnOVFoN2tPeE94SjFqRG1qcll0QmFDVE5qWlpQZUNmcUVJeDlNSnBET253c0pfQ1pjZ1lUZ012dm05UEhaU3pSOG0tNk94d2ZDZ05XS25reXV1QkdvUjVuRVRXZEp5UQ?oc=5",
+      "source": "Google News RSS / Global South Opportunities",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Recruitment : POST-DOCTORAL RESEARCH FELLOW to work on the PROTECCT project - Sciences Po",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjMzNW01OVRfdnFUX2gtN3ktMzlhZFAxZnEzUTBSNFdUTTNnRUd2TmZTV0diODhVSGVFZkxESV8xbHR2MEk0LWNHU1pSTGFYbnczVXExYkkyVHF5SWlxOUpkZTd3eG9nTmpKbXFadFV4MUN2OTdZRWRPb1J0YUFwc1k3bF82ZHk0ZFJ2ajZVTmFSMkQtNXVrbWtPMl9Zcm8yTV94NG9FRzd0dWJITDl5MVZB?oc=5",
+      "source": "Google News RSS / Sciences Po",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "One of Canada's best places to work is hiring for over 60 jobs in Vancouver - Curiocity",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBNHdVQzhaQnZlcnpRMmt5VE9EcldPUzVQdFpRU1BSNmNMdkxRVTAxOTM2cWtBdVZjdHFuc0V2TnZabEt3UzI2Q0kwWDZYVTRQMUtWN1pqaVVvVEZWOXZFSTFQUVJTVU1yTm5saGs5VFNTZ2VqSUJv?oc=5",
+      "source": "Google News RSS / Curiocity",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "District Coordinator Vacancy At National University Of Study And Research In Law, Ranchi - Live Law",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX1hSZ19HUTBPdGdEN3VQbHI3c3ZZNVR1d2tsamdFZmVZZGEzNU1ITjhObEgzSWdhZlJaYXFQcXJjOEJkUkJtQkQyam9icnBJcWJVUFFuOXYtcFZKNFZVVUJhc1BaOHNOcDZUOTA2aTVFVVpFUmlNbGgtR0FySmlqaTBtUDk5VEc4dklrS1BCVmJxQ3YwelcxYVVGZHlvcnBiZFBZQmJlRDB5YXREV3kxYmpXSjhBNEtNRUIyU2FFYktaSVNmTTU4ctIBzgFBVV95cUxQUl9rdmVBV1FVUDZDUWI1dmx2QVg5ZF9LT21rQTIwSDdab1JjZWZ2My15cEpYdkg3a1lVaHZkNHg5OVlRWUpLVzkzT3VYY3RnaHFiX0haRU1BRF9MdlRHdGZMRmJiNGpUSFlUT2ttdnRua1lwWWtCSVN4aG5qak1Sb0ZUMk04ZXFFdGdqVTlacXRaN0k5bVJkRmYtVk1LUURPMHRaV0E5enFPNXI1YWNCeWZCQ0VHTmk2cFhJdlVwR2lQLWhHVzRwRHNlc2V2UQ?oc=5",
+      "source": "Google News RSS / Live Law",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "AIIMS Bathinda hiring for posts of Senior Research Fellow, Research Assistant - Shiksha.com",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaFgzN2c4OFhmRWpvdWpfckdOaWRaX2xlYUtBSjAtYzF6X3VaUDdPT3l4bWpYWGVkV25rZGJnVzMxcDFyLVZnSkxTOGVkeWZLSGo3WHpzV3V3dHVLOV9xblJGMjJjNDFUV04td2pqVEdrR3JFRXptQk1RLW5YaVVybkJZR1hJX0dvSHQ1aWY0bVU3WWp5NjJOVzJocGF6QzhfTWNBZHJMdVFNQm9PSk1LOGphUXRBaENfS3JfVi1MRUc5bHhXSWxseDN1S0hySkRLQ2U4Mm5WcFM4cGdu?oc=5",
+      "source": "Google News RSS / Shiksha.com",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Utkal University Recruitment 2026 – Apply Offline for 28 Field Investigator, Research Assistant and More Posts - FreeJobAlert.Com",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ2FpR1UwdWN3dXRaX0N1Q3NjYWVPQjF6Q0R5dm4xQUxMb25KT1kwVzBIazREQVBLVXYwOFNOTVBKdlEzdVdxLU5GMzJMeXVGcHNxNWVXWjFwVkpNV1o1S2d3X0dzWnZ6Q3Z6Z1lfalVzZEZhSTQxVzE1a0RtZ1psZEZrbTNBQU5Ubm1ObHJxN3NWdl8yenBXeFVKODNNQXhOdHZrYUpFamZxNW0zanhXNWpjY2g4NExTTEZORHdSVTFKUDlYQV9GbGg0NlVpNXZSenFhVHQ0TmhpMmNQWTZ3Qm5Zb3hnQkxl?oc=5",
+      "source": "Google News RSS / FreeJobAlert.Com",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Rajiv Gandhi University Recruitment 2026 - Apply Online for Research Assistant and Field Investigator Posts - FreeJobAlert.Com",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMXpZcDVDLWZ3cXF1elFnc3VZUDNkLVJ6V2x2SDJhWTNUYjBnNHZtUENXWktkRDN6TXRtdU1qWFlBZkpHTjNCM1hUcUUyd291YklQcHJib0FtVUEtRFpMV3lWaEV3X0cxQ3B5Qk5rdTBrZGJKY1diR1o2OUFNRWhKVk04c1RmYUhVdU80all3eVAzYXFEN0xzVmdBN3RwTmNGRWprQWFvVll1MlFwbkY2QXVZRnFJS2JIYUp6NFBkMVJEd2RKcHFzMTVwRUZjUTBEMkpjQ0FTSllfYTlVVWZoclFwbFVVUQ?oc=5",
+      "source": "Google News RSS / FreeJobAlert.Com",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "4 Vacancies Open At University Of Nairobi - Opportunities for Young Kenyans",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNclhHamZXWDB6dVNreFdfbnV3RFg3b19BS2hXeEZadkhtNTU4TDlabGRvZlVwUlFOOW1fYVlPYnRGLVliSEF3eXdQWGtHUmxqN1hHN3lLemRiZHRxR1pxX1R2aG1OV3pMRl94S01MWW9zSlVjakhfR3hpY0EtOTVvVWZZbnQ4S3VpX3duVkZneGw4OENNMmdBX0VXUjEtQTNa?oc=5",
+      "source": "Google News RSS / Opportunities for Young Kenyans",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Meru University Of Science & Technology Hiring Research Assistant / Research Fellow (Soil-Cement) – (Open) - Opportunities for Young Kenyans",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQzJKa3Bxb2RFdDdscFhkYzVjQmVIYVd5aVRQSWpERGhKS1h0bGRDeThCS25HdVpVU28zYUY3Q0xyMG01MkNyVVltM1dIOXh5VDZCcVFyYmRobHV5ZDVHNUEyTU9JUVZOVWNjdXJqdWhjc0tYNmZIZkJSM2RHRUx6TE9iOUxjaHdsd3Y3bkJyY2ZxWnBPVHM2X0g5MmhOOGYwaWV2ZVhrd05kSnl2dWtNbGljclNuZkR2UDNpR192Z1JOa25TTnU5ak4tcGVpVTAyakNkYkZ4S1lMeUx5MHE2am9BcVVDUQ?oc=5",
+      "source": "Google News RSS / Opportunities for Young Kenyans",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Meru University Of Science & Technology (MUST) Hiring Research Assistant / Graduate Assistant – Cement & Concrete - Opportunities for Young Kenyans",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOc3hIV2M3TDVIZndZell5Nmtkd2wxeUNjMHcwbHZITVcwd09lWkxYQjd5NW1vX21TbDE1blROMVpPYWkyUWwxandHd2xYU1BDRndVQ3hwSVIwbnA3Rzhqa0E5ZDNhNXFQUlp5cFBEVDczZjRWd2pJQ080RldUbVU5Tm5xVEsxck1JS0R0YUVRTUtlaFd1WWdEWWVpWHdLVWlNVE5hamNFMDBYX213aDBqYkwyaGE3RHl1VXg1Sl9CQlZnNEM4ZkI5R1RGVkpPOGIwLXVpYzB5bXlqbU83SHBmLTRVZlNPYW8wYWpTRkpiVQ?oc=5",
+      "source": "Google News RSS / Opportunities for Young Kenyans",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "Kalyani University Research Assistant Recruitment 2026 - Walkin - FreeJobAlert.Com",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdENsNEF4TVR6bVNXazFQSlRYeDl0UjQ2N1BhVF9vNVo5VUlCc3FVYngzd0U2SGUyaDZaTWVyY0hzSkd3dnFVWnZGUlpiWlBPa253WmM1N2l0SXZocjdMNzRxNmg2b1JJbWo1TTl6dW5LS0VtRjZjQzJGRENVVUtMODBBTXdzRjJBMUR4TWpTOUtxYWxlVVFqemtCV1Z4azdUV1NiVDR0M1pwV1E?oc=5",
+      "source": "Google News RSS / FreeJobAlert.Com",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "TMC Clinical Research Coordinator Recruitment 2026 - Walkin - FreeJobAlert.Com",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU2xxUk9Rd2VrY3lBVGdLT1FGM1BFc0JQN21idFdJUThWQURoMmk0akhJVkt6cjlncWtzNEF6TTZpRmhUTlJkN0Jfc25vTkduUDlGMEFsWEc5bXVjN0tTRC1YVms4WmJDcjFKR25KR284U2tlYkQyRWZqNzdaOFdtTjYwYUZtSUxEdHNGamNESFZDckItcU9kbENwSmZINTZaMzVwOHh3?oc=5",
+      "source": "Google News RSS / FreeJobAlert.Com",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    },
+    {
+      "org": "机构待核实",
+      "role": "SMKV Bastar Non-Teaching Recruitment 2026 - Apply Online for 69 Peon, Assistant and DEO Posts - FreeJobAlert.Com",
+      "country": "待核实",
+      "city": "待核实",
+      "track": "海外非学术",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGlLV3NVc0Ywclp0Y0RQdEx0c0xXM2FiVjBSQXJaZkRPM2lNdS1DS0NpMWZJTGFFX1FRX3RyeVlPN3Njb00yd09nYi1OV3FneE5yMDhuMC1fY2p0MHRuRGotZDJ3dDE5UXdjTUdrX05RVVZrWVRDMVV5THpKR3BhbXNJa1ppNXd1NnRqYTBsbUs?oc=5",
+      "source": "Google News RSS / FreeJobAlert.Com",
+      "notes": "自动发现的招聘资讯线索，并非已核实的在招岗位。请查找招聘单位官方网站，核实公告日期、截止时间、学历和论文要求、薪酬、工作许可及申请方式。"
+    }
+  ]
 }
