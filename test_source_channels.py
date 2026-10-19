@@ -21,3 +21,26 @@ class ChannelTests(unittest.TestCase):
   self.assertFalse(allowed_host('https://hr.example.edu.attacker.org/a','hr.example.edu'))
   self.assertFalse(allowed_host('javascript:alert(1)','hr.example.edu'))
   with self.assertRaises(ValueError):listing_items('<title>Access Denied</title>',SOURCE)
+
+class ExpandedHRTests(unittest.TestCase):
+ def test_all_provinces_and_unique_registry(self):
+  from scripts.source_channels import load_sources
+  sources=load_sources();hr=[s for s in sources if s.get('channel_group')=='human_resources']
+  self.assertEqual(len({s['region'] for s in hr if s['level']=='省级'}),31)
+  self.assertGreaterEqual(len(hr),43)
+  self.assertEqual(len({s['id'] for s in sources}),len(sources))
+  self.assertEqual(len({s['url'] for s in hr}),len(hr))
+ def test_hr_keeps_general_announcements_without_inventing_facts(self):
+  from scripts.source_channels import basic_information
+  hr={**SOURCE,'channel_group':'human_resources','region':'广东'}
+  rows=listing_items('<a href="/2026/a.html">某县事业单位2026年公开招聘工作人员公告</a><a href="/2026/b.html">某医院2026年公开招聘行政人员公告</a>',hr)
+  self.assertEqual(len(rows),2)
+  result=basic_information(rows[1]['title'],hr)
+  self.assertEqual(result['announcement_type'],'公开招聘');self.assertEqual(result['sector'],'医疗卫生')
+  self.assertEqual(result['source_region'],'广东');self.assertNotIn('eligibility',result)
+ def test_bounded_column_discovery(self):
+  from scripts.source_channels import recruitment_columns
+  html='<a href="/a/">事业单位招聘</a><a href="https://evil.example/a/">公开招聘</a><a href="/b/">通知公告</a><a href="/c/">招聘公告</a><a href="/position/1">大学招聘博士公告</a>'
+  cols=recruitment_columns(html,SOURCE,SOURCE['url'])
+  self.assertEqual(len(cols),2);self.assertIn('https://hr.example.edu/a/',cols)
+  self.assertFalse(any('evil.example' in u for u in cols))

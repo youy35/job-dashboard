@@ -1,10 +1,10 @@
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
 const html=fs.readFileSync(__dirname+'/index.html','utf8');
-const scripts=[...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m=>m[1]);
+const scripts=[...html.matchAll(/<script(?: src="([^"]+)")?>([\s\S]*?)<\/script>/g)].map(m=>m[1]?fs.readFileSync(__dirname+'/'+m[1],'utf8'):m[2]);
 function boot(jobs){
  const dom={};const store=new Map([['career_feed_autosync','0'],['youyue_career_dashboard_v2',JSON.stringify(jobs)]]);
  const elem=id=>dom[id]??={value:id==='poolFilter'?'inbox':'',innerHTML:'',textContent:'',style:{},hidden:false,open:false,showModal(){this.open=true},close(){this.open=false},scrollIntoView(){},setAttribute(){},classList:{toggle(){}}};
- const ctx={document:{getElementById:elem,querySelectorAll:()=>[]},localStorage:{getItem:k=>store.get(k)??null,setItem:(k,v)=>store.set(k,v)},URL,Intl,console,setTimeout:()=>0,clearTimeout(){},location:{protocol:'http:'},alert(){},confirm:()=>true,window:{scrollTo(){}}};
+ const ctx={document:{getElementById:elem,querySelectorAll:()=>[]},localStorage:{getItem:k=>store.get(k)??null,setItem:(k,v)=>store.set(k,v)},URL,Intl,console,AbortController,setTimeout:()=>0,clearTimeout(){},location:{protocol:'http:'},alert(){},confirm:()=>true,window:{scrollTo(){}}};
  vm.createContext(ctx);for(const script of scripts)vm.runInContext(script,ctx);return{ctx,dom,store,run:s=>vm.runInContext(s,ctx)};
 }
 const legacy={id:'old',org:'手动单位',role:'旧岗位',country:'中国',track:'科研',url:'https://example.org/old',status:'已投递',notes:'私人备注',contact:'my contact'};
@@ -27,3 +27,5 @@ assert.equal(run('isReading({role:"UNV Online Volunteer Opportunity",track:"资�
 assert.equal(run('isReading({role:"Museum curator vacancy",track:"博物馆"})'),false);
 run('showView("discover")');run('showView("applications")');
 assert.ok(store.get('career_radar_workspace_v1'));console.log('PASS: startup, legacy storage, inbox separation, no fake relevance score, follow, prepare, archive/restore, source details, dedupe and progress preservation, reading classification, navigation');
+
+module.exports={boot};

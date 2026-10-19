@@ -44,10 +44,10 @@ class RadarTests(unittest.TestCase):
             radar.parse_rss(b'<html/>',{'query':'test'})
 
     def test_merge_preserves_verified_and_prioritizes_new(self):
-        old=[{'url':f'https://example.org/{i}','role':'old','visa':'已核实','notes':'我的备注'} for i in range(500)]
+        old=[{'url':f'https://example.org/{i}','role':'old','visa':'已核实','notes':'我的备注'} for i in range(1000)]
         found=[{'url':'https://example.org/new','role':'new'}, {'url':old[0]['url'],'role':'overwrite','visa':'待核实'}]
         rows=radar.merge_leads(old,found+found)
-        self.assertEqual(len(rows),500)
+        self.assertEqual(len(rows),1000)
         self.assertEqual(rows[0]['role'],'new')
         self.assertEqual(rows[1]['visa'],'已核实')
         self.assertEqual(rows[1]['notes'],'我的备注')
