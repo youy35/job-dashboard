@@ -131,11 +131,11 @@ def merge_leads(existing, found):
             # Preserve any manually verified facts and notes, including unknown extensions.
             merged[url] = {**job, **old.get(url, {})}
             # Refresh source provenance without changing user-maintained facts.
-            for key in ('source_id', 'source_kind', 'discovery_method'):
+            for key in ('source_id', 'source_kind', 'discovery_method', 'announcement_type', 'sector', 'source_region', 'channel_group', 'title_tags', 'basic_summary'):
                 if key in job: merged[url][key] = job[key]
     for url, job in old.items():
         merged.setdefault(url, job)
-    return list(merged.values())[:500]
+    return list(merged.values())[:1000]
 
 
 def main(output=OUTPUT, searches=None, include_channels=None):
